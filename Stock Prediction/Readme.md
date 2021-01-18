@@ -15,6 +15,7 @@ Datasets used:
 2. Textual headline data of Times Of India from 2001 to 2020: https://bit.ly/36fFPI6
 
 # Results
+Stock price predictions for year 2019
 ![download](https://user-images.githubusercontent.com/58306552/104956613-826be980-59f2-11eb-81aa-bf89f4b23eb2.png)
 
 
