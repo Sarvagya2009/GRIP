@@ -10,10 +10,12 @@ TextBlob and VADER sentiment analysis model from the NLTK library have been used
 New features are computed which are then scaled to train a stacked LSTM (4 layer).
 Test data is taken and preprocessed separately and then the trained model predicts and visualizes the prediction vs real world data.
 
-
 Datasets used: 
 1. Historical stocks of BSE from 2001 till 2020: https://finance.yahoo.com/
 2. Textual headline data of Times Of India from 2001 to 2020: https://bit.ly/36fFPI6
+
+# Results
+
 
 
 # References
