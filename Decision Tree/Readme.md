@@ -10,3 +10,5 @@ Datasets used:
 1. Iris dataset: https://bit.ly/3kXTdox
 
 # Results
+![graphviz](https://user-images.githubusercontent.com/58306552/105039003-091dd680-5a86-11eb-9cb1-7ea94fa2d4b5.png)
+
