@@ -18,6 +18,6 @@ Datasets used:
 Stock price predictions for year 2019
 ![download](https://user-images.githubusercontent.com/58306552/104956613-826be980-59f2-11eb-81aa-bf89f4b23eb2.png)
 
-#References 
+# References 
 1. https://www.sciencedirect.com/science/article/pii/S1877050920307924
 2. https://github.com/monica110394/Stock-Market-Prediction/blob/main/stock_market_prediction.ipynb
